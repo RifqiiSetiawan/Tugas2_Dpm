@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "tugas2rifqi",
+    "slug": "tugas2rifqi",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6cfc2b29-7ba3-43a1-a51f-f5ee5cc0c2dc"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6cfc2b29-7ba3-43a1-a51f-f5ee5cc0c2dc"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
